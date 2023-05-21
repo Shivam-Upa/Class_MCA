@@ -78,6 +78,8 @@ void add()
 }
 void sub()
 { 
+    // int arr1[2][2] = {1,2,3,4};
+    // int arr2[2][2] = {1,2,3,4};.
     int row, col;
     printf("Size of array row:\n");
     scanf("%d", &row);
