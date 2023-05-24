@@ -2,8 +2,6 @@
 void add();
 void sub();
 void mult();
-// int arr1[2][2] = {1,2,3,4};
-    // int arr2[2][2] = {1,2,3,4};.
 void main()
 {
     int ch;
