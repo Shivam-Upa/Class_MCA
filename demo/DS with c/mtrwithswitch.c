@@ -2,5 +2,5 @@
 int inputfun();
 int main()
 {
-    inputfun();
+//     inputfun();
 }
