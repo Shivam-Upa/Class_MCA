@@ -1,7 +1,7 @@
 #include <stdio.h>
-void add();
-void sub();
-void mult();
+// void add();
+// void sub();
+// void mult();
 void main()
 {
     int ch;
