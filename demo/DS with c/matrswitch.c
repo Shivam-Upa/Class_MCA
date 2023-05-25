@@ -1,5 +1,5 @@
 #include <stdio.h>
-void mult();
+// void mult();
 void main()
 {
     int expr;
