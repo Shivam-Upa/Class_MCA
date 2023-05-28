@@ -1,0 +1,18 @@
+Program1 :- 1D array of float type, size 10 take value from user and print value.
+Program2 :- 1D array of double type, size 15 take value from user and print value.
+Program3 :- 2 - 1D array, size 5, add both element value in new array.
+Program4 :- array size 15 and print reverse value.
+Program5 :- array size 15 and print fully divisibal by 7 value.
+Program6 :- create 2 array size of 5 and 10, marze both array.
+Program :-
+Program :-
+Program :-
+Program :-
+Program :-
+Program :-
+Program :-
+Program :-
+Program :-
+Program :-
+Program :-
+Program :-
