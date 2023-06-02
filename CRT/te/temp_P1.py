@@ -1,7 +1,5 @@
 number = int(input("Enter a number: "))
-
 is_prime = True
-
 if number < 2:
     is_prime = False
 
